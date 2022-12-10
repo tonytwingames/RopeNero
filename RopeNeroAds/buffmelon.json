@@ -1,11 +1,11 @@
 {  "Ads": [
     {
        "select_main_ads": "ADMOB",
-      "select_backup_ads":"",
+      "select_backup_ads":"UNITY",
       "main_ads_banner": "ca-app-pub-2792056559766967/4966231159",
       "main_ads_intertitial":"ca-app-pub-2792056559766967/3653149485",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_banner":"Banner_Android",
+      "backup_ads_intertitial":"Interstitial_Android",
       "main_ads_rewards":"",
       "backup_ads_rewards":"",
       "interval_intertitial": 0,
