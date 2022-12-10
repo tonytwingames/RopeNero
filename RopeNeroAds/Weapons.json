@@ -4,9 +4,9 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"UNITY",
-      "main_ads_banner": "ca-app-pub-2792056559766967/5553810125",
-      "main_ads_intertitial":"ca-app-pub-2792056559766967/2927646789",
-      "native_for_admob":"ca-app-pub-2792056559766967/6941831842",
+      "main_ads_banner": "ca-app-pub-2792056559766967/4953928339",
+      "main_ads_intertitial":"ca-app-pub-2792056559766967/3402007669",
+      "native_for_admob":"ca-app-pub-2792056559766967/8462762657",
       "backup_ads_banner":"Banner_Android",
       "backup_ads_intertitial":"Interstitial_Android",
       "interval_intertitial": 0,
