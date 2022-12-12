@@ -1,0 +1,281 @@
+{
+	
+	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+	"admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+	"admob_native": "ca-app-pub-3940256099942544/2247696110",
+	"admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
+	
+	"ironsource_app_key": "s",
+	"ironsource_banner": "DefaultBanner",
+	"ironsource_interstitial": "DefaultInterstitial",
+	"ironsource_rewarded": "DefaultRewardedVideo",
+	
+	"facebook_banner": "1362347277929059_1362347331262387",
+	"facebook_interstitial": "1362347277929059_1362347334595720",
+	"facebook_native": "1362347277929059_1362347327929054",
+	"facebook_rewarded": "1362347277929059_1362347324595721",
+   
+	"applovin_banner": "554703667095a6f2",
+	"applovin_interstitial": "03ea607a87c9e95b",
+	"applovin_native": "915b9c251d479845",
+	"applovin_rewarded": "cb25fc1741087b72",
+	
+  
+	"Interstitial_1": "applovin",
+	"Banner_1": "applovin",
+	"Native_1": "applovin",
+	
+	"Interstitial_2": "applovin",
+	"Banner_2": "applovin",
+	"Native_2": "applovin",
+	
+	"Banner_3": "applovin",
+	"Native_3": "applovin",
+	
+	"Rewarded": "applovin",
+	
+	
+	"onesignal_id": "",
+	
+	"inter_show_rate": 2,
+	"native_position_rate": 2,
+	
+	"show_rating_exit_dialog": false,
+	
+	"show_rating_dialog": false,
+	"rating_dialog_show_rate": 3,
+	
+	"show_custom_ad_dialog": false,
+	"show_custom_ad_image": false,
+	"custom_ad_image": "https://archive.org/download/image_20220504/image.png",
+	"custom_ad_text": "title",
+	"custom_ad_button_text": "click",
+	"custom_ad_url": "https://archive.org/download/image_20220504/image.png",
+	"custom_ad_show_rate": 2,
+	
+	"is_app_suspended": false,
+	"update_title": "A new update for this app is available.",
+	"update_message": "Update this app because this version has some issues.",
+	"update_URL": "xxxx",
+  
+  
+	"items": [
+	  {
+	   "image": "https://melmod.com/wp-content/uploads/2022/09/20220924024342-632e6edeb3497.webp",
+	   "title": "Infected Melon(NPC)",
+	   "text": "1.Download the Infected Melon(NPC) mods from the description <br /><br />  2.Open ES File Explorer/Andro Zip/Zarchiver that you in the requirements.",
+	   "text_2": "3. zip select ‘Extract to’.(mod file suffix is ​​.melmod). <br /><br />  4.To add the item or skin a .MELMOD file contains to the Android version of Melon Playground, place the file in the following folder:",
+  
+	   "isLocked": false,
+	   "id": 1,
+  
+	   "show_custom_button": true,
+	   "custom_button_text": "Download",
+	   "custom_button_URL": "https://d2.melmod.com/mods/88904124023c46b61ace856558a9c1a7194314.zip"
+	  },
+	  {
+		"image": "https://melmod.com/wp-content/uploads/2022/09/20220924024329-632e6ed1f3638.webp",
+		"title": "WW2 Pack(Larik_lol)",
+		"text": "1.Download the WW2 Pack(Larik_lol) mods from the description <br /><br />2.Open ES File Explorer/Andro Zip/Zarchiver that you in the requirements. ",
+		"text_2": "3. zip select ‘Extract to’.(mod file suffix is ​​.melmod). <br /><br /> 4.To add the item or skin a .MELMOD file contains to the Android version of Melon Playground, place the file in the following folder:",
+   
+	   "isLocked": false,
+	   "id": 2,
+	   
+	   "show_custom_button": true,
+	   "custom_button_text": "Download",
+	   "custom_button_URL": "https://d2.melmod.com/mods/974677970dc9447ea12fc324fa92cd82162209.zip"
+	  },
+	  {
+		"image": "https://melmod.com/wp-content/uploads/2022/10/men13-1024x292.png",
+		"title": "Doors",
+		"text": "1.Download the WW2 Pack(Larik_lol) mods from the description <br /><br />2.Open ES File Explorer/Andro Zip/Zarchiver that you in the requirements. ",
+		"text_2": "3. zip select ‘Extract to’.(mod file suffix is ​​.melmod). <br /><br /> 4.To add the item or skin a .MELMOD file contains to the Android version of Melon Playground, place the file in the following folder:",
+   
+	   "isLocked": false,
+	   "id": 3,
+	   
+	   "show_custom_button": true,
+	   "custom_button_text": "Download",
+	   "custom_button_URL": "https://melmod.com/mods/doorsmodsupdate1/"
+	  },
+	  {
+		"image": "https://melmod.com/wp-content/uploads/2022/10/jojo1.png",
+		"title": "jojo",
+		"text": "1.Download the WW2 Pack(Larik_lol) mods from the description <br /><br />2.Open ES File Explorer/Andro Zip/Zarchiver that you in the requirements. ",
+		"text_2": "3. zip select ‘Extract to’.(mod file suffix is ​​.melmod). <br /><br /> 4.To add the item or skin a .MELMOD file contains to the Android version of Melon Playground, place the file in the following folder:",
+   
+	   "isLocked": false,
+	   "id": 4,
+	   
+	   "show_custom_button": true,
+	   "custom_button_text": "Download",
+	   "custom_button_URL": "https://melmod.com/mods/jojo/"
+	  },
+	  {
+		"image": "https://melmod.com/wp-content/uploads/2022/10/Saitama-1024x586.png",
+		"title": "Saitama",
+		"text": "1.Download the WW2 Pack(Larik_lol) mods from the description <br /><br />2.Open ES File Explorer/Andro Zip/Zarchiver that you in the requirements. ",
+		"text_2": "3. zip select ‘Extract to’.(mod file suffix is ​​.melmod). <br /><br /> 4.To add the item or skin a .MELMOD file contains to the Android version of Melon Playground, place the file in the following folder:",
+   
+	   "isLocked": false,
+	   "id": 5,
+	   
+	   "show_custom_button": true,
+	   "custom_button_text": "Download",
+	   "custom_button_URL": "https://melmod.com/?__wpdmlo=8533#"
+	  },
+	  {
+		"image": "https://melmod.com/wp-content/uploads/2022/10/us.webp",
+		"title": "Among us",
+		"text": "1.Download the WW2 Pack(Larik_lol) mods from the description <br /><br />2.Open ES File Explorer/Andro Zip/Zarchiver that you in the requirements. ",
+		"text_2": "3. zip select ‘Extract to’.(mod file suffix is ​​.melmod). <br /><br /> 4.To add the item or skin a .MELMOD file contains to the Android version of Melon Playground, place the file in the following folder:",
+   
+	   "isLocked": false,
+	   "id": 6,
+	   
+	   "show_custom_button": true,
+	   "custom_button_text": "Download",
+	   "custom_button_URL": "https://d2.melmod.com/mods2/Amongus23.zip"
+	  },
+	  {
+		"image": "https://melmod.com/wp-content/uploads/2022/09/20220924024220-632e6e8cbef73.webp",
+		"title": "Rainbow Friends",
+		"text": "1.Download the WW2 Pack(Larik_lol) mods from the description <br /><br />2.Open ES File Explorer/Andro Zip/Zarchiver that you in the requirements. ",
+		"text_2": "3. zip select ‘Extract to’.(mod file suffix is ​​.melmod). <br /><br /> 4.To add the item or skin a .MELMOD file contains to the Android version of Melon Playground, place the file in the following folder:",
+   
+	   "isLocked": false,
+	   "id": 7,
+	   
+	   "show_custom_button": true,
+	   "custom_button_text": "Download",
+	   "custom_button_URL": "https://melmod.com/mods/rainbow-friends.zip/"
+	  },
+	  {
+		"image": "https://melmod.com/wp-content/uploads/2022/10/hqdefault-2-1.webp",
+		"title": "mimic by bellow star",
+		"text": "1.Download the WW2 Pack(Larik_lol) mods from the description <br /><br />2.Open ES File Explorer/Andro Zip/Zarchiver that you in the requirements. ",
+		"text_2": "3. zip select ‘Extract to’.(mod file suffix is ​​.melmod). <br /><br /> 4.To add the item or skin a .MELMOD file contains to the Android version of Melon Playground, place the file in the following folder:",
+   
+	   "isLocked": false,
+	   "id": 8,
+	   
+	   "show_custom_button": true,
+	   "custom_button_text": "Download",
+	   "custom_button_URL": "https://melmod.com/mods/mimic-by-bellow-star/"
+	  },
+	  {
+		"image": "https://melmod.com/wp-content/uploads/2022/10/hqdefault-2.webp",
+		"title": "Kizaru+skills Oack",
+		"text": "1.Download the WW2 Pack(Larik_lol) mods from the description <br /><br />2.Open ES File Explorer/Andro Zip/Zarchiver that you in the requirements. ",
+		"text_2": "3. zip select ‘Extract to’.(mod file suffix is ​​.melmod). <br /><br /> 4.To add the item or skin a .MELMOD file contains to the Android version of Melon Playground, place the file in the following folder:",
+   
+	   "isLocked": false,
+	   "id": 9,
+	   
+	   "show_custom_button": true,
+	   "custom_button_text": "Download",
+	   "custom_button_URL": "https://melmod.com/mods/kizaruskills-oack/"
+	  },
+	  {
+		"image": "https://melmod.com/wp-content/uploads/2022/10/hq720-1.webp",
+		"title": "Detailed AKAINU+ Magu skill",
+		"text": "1.Download the WW2 Pack(Larik_lol) mods from the description <br /><br />2.Open ES File Explorer/Andro Zip/Zarchiver that you in the requirements. ",
+		"text_2": "3. zip select ‘Extract to’.(mod file suffix is ​​.melmod). <br /><br /> 4.To add the item or skin a .MELMOD file contains to the Android version of Melon Playground, place the file in the following folder:",
+   
+	   "isLocked": false,
+	   "id": 10,
+	   
+	   "show_custom_button": true,
+	   "custom_button_text": "Download",
+	   "custom_button_URL": "https://melmod.com/mods/detailed-akainu-magu-skill/"
+	  },
+	  {
+		"image": "https://melmod.com/wp-content/uploads/2022/10/hqdefault.webp",
+		"title": "Furry_NPC",
+		"text": "1.Download the WW2 Pack(Larik_lol) mods from the description <br /><br />2.Open ES File Explorer/Andro Zip/Zarchiver that you in the requirements. ",
+		"text_2": "3. zip select ‘Extract to’.(mod file suffix is ​​.melmod). <br /><br /> 4.To add the item or skin a .MELMOD file contains to the Android version of Melon Playground, place the file in the following folder:",
+   
+	   "isLocked": false,
+	   "id": 11,
+	   
+	   "show_custom_button": true,
+	   "custom_button_text": "Download",
+	   "custom_button_URL": "https://melmod.com/mods/furry_npc_mod_by_n0ree/"
+	  },
+	  {
+		"image": "https://melmod.com/wp-content/uploads/2022/10/Dragon-ball-1024x565.png",
+		"title": "Goku Ultra Instinct dragonball",
+		"text": "1.Download the WW2 Pack(Larik_lol) mods from the description <br /><br />2.Open ES File Explorer/Andro Zip/Zarchiver that you in the requirements. ",
+		"text_2": "3. zip select ‘Extract to’.(mod file suffix is ​​.melmod). <br /><br /> 4.To add the item or skin a .MELMOD file contains to the Android version of Melon Playground, place the file in the following folder:",
+   
+	   "isLocked": false,
+	   "id": 12,
+	   
+	   "show_custom_button": true,
+	   "custom_button_text": "Download",
+	   "custom_button_URL": "https://melmod.com/mods/dragon-ballgoku-20ball.melmod/"
+	  },
+	  {
+		"image": "https://melmod.com/wp-content/uploads/2022/09/20220924024353-632e6ee91f996.webp",
+		"title": "Small prestigious house",
+		"text": "1.Download the WW2 Pack(Larik_lol) mods from the description <br /><br />2.Open ES File Explorer/Andro Zip/Zarchiver that you in the requirements. ",
+		"text_2": "3. zip select ‘Extract to’.(mod file suffix is ​​.melmod). <br /><br /> 4.To add the item or skin a .MELMOD file contains to the Android version of Melon Playground, place the file in the following folder:",
+   
+	   "isLocked": false,
+	   "id": 13,
+	   
+	   "show_custom_button": true,
+	   "custom_button_text": "Download",
+	   "custom_button_URL": "https://d2.melmod.com/mods/"
+	  },
+	  {
+		"image": "https://melmod.com/wp-content/uploads/2022/09/20220924024348-632e6ee44d454.webp",
+		"title": "chemical defense suit(NPC)",
+		"text": "1.Download the WW2 Pack(Larik_lol) mods from the description <br /><br />2.Open ES File Explorer/Andro Zip/Zarchiver that you in the requirements. ",
+		"text_2": "3. zip select ‘Extract to’.(mod file suffix is ​​.melmod). <br /><br /> 4.To add the item or skin a .MELMOD file contains to the Android version of Melon Playground, place the file in the following folder:",
+   
+	   "isLocked": false,
+	   "id": 14,
+	   
+	   "show_custom_button": true,
+	   "custom_button_text": "Download",
+	   "custom_button_URL": "https://d2.melmod.com/mods/2fa3ef6a9d4a9ea8cc082b74dbc1cd55174159.zip"
+	  },
+	  {
+		"image": "https://melmod.com/wp-content/uploads/2022/09/20220924024351-632e6ee78605e.webp",
+		"title": "Nps Scorpion from Mortal Kombat(NPC)",
+		"text": "1.Download the WW2 Pack(Larik_lol) mods from the description <br /><br />2.Open ES File Explorer/Andro Zip/Zarchiver that you in the requirements. ",
+		"text_2": "3. zip select ‘Extract to’.(mod file suffix is ​​.melmod). <br /><br /> 4.To add the item or skin a .MELMOD file contains to the Android version of Melon Playground, place the file in the following folder:",
+   
+	   "isLocked": false,
+	   "id": 15,
+	   
+	   "show_custom_button": true,
+	   "custom_button_text": "Download",
+	   "custom_button_URL": "https://d2.melmod.com/mods/4494aafc08d8dc66d1beeea926f95eeb180658.zip"
+	  },
+	  {
+		"image": "https://melmod.com/wp-content/uploads/2022/09/20220924024349-632e6ee518649.webp",
+		"title": "Soldier(NPC)",
+		"text": "1.Download the WW2 Pack(Larik_lol) mods from the description <br /><br />2.Open ES File Explorer/Andro Zip/Zarchiver that you in the requirements. ",
+		"text_2": "3. zip select ‘Extract to’.(mod file suffix is ​​.melmod). <br /><br /> 4.To add the item or skin a .MELMOD file contains to the Android version of Melon Playground, place the file in the following folder:",
+   
+	   "isLocked": false,
+	   "id": 16,
+	   
+	   "show_custom_button": true,
+	   "custom_button_text": "Download",
+	   "custom_button_URL": "https://d2.melmod.com/mods/8f14b19d890c4d99605843718b0de33c175922.zip"
+	  }
+
+	]  
+  }
+
+
+
+
+
+
+
+
