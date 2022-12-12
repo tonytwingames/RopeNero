@@ -22,14 +22,14 @@
 	
   
 	"Interstitial_1": "admob",
-	"Banner_1": "applovin",
-	"Native_1": "applovin",
+	"Banner_1": "admob",
+	"Native_1": "admob",
 	
-	"Interstitial_2": "admob",
+	"Interstitial_2": "applovin",
 	"Banner_2": "applovin",
 	"Native_2": "applovin",
 	
-	"Banner_3": "admob",
+	"Banner_3": "applovin",
 	"Native_3": "applovin",
 	
 	"Rewarded": "admob",
