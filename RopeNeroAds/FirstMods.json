@@ -21,18 +21,18 @@
 	"applovin_rewarded": "cxxxxxxxxxxxxxx2",
 	
   
-	"Interstitial_1": "applovin",
+	"Interstitial_1": "admob",
 	"Banner_1": "applovin",
 	"Native_1": "applovin",
 	
-	"Interstitial_2": "applovin",
+	"Interstitial_2": "admob",
 	"Banner_2": "applovin",
 	"Native_2": "applovin",
 	
-	"Banner_3": "applovin",
+	"Banner_3": "admob",
 	"Native_3": "applovin",
 	
-	"Rewarded": "applovin",
+	"Rewarded": "admob",
 	
 	
 	"onesignal_id": "",
