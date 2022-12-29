@@ -1,0 +1,376 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"Rbandez1234",
+      "backup_ads_intertitial":"Rbandez123",
+      "interval_intertitial": 1,
+      "initialize_sdk":"11865347",
+      "initialize_sdk_backup_ads":"11865347",
+	   "high_paying_keyword_1": "Insurance",
+      "high_paying_keyword_2": "Loans",
+      "high_paying_keyword_3": "Mortgage",
+      "high_paying_keyword_4": "Attorney",
+	"high_paying_keyword_5": "Credit",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Bone Monster",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/Bone%20Monster/Bone%20Monster.jpg",
+      "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/Bone%20Monster/Bones.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">Bone Monster</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+    },
+    {
+      "id":2,
+      "name":"Mega Monster",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/Mega%20Monster/Mega%20Monster.jpg",
+      "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/Mega%20Monster/mega%20monster.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">Mega Monster</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+    },
+    {
+      "id":3,
+      "name":"Mod Mosasaurus",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/mod%20mosasaurus/mod%20mosasaurus.jpg",
+      "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/mod%20mosasaurus/mod%20mosasaurus.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">Mod Mosasaurus</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+   },
+   {
+    "id":4,
+    "name":"Monster From Fan",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/monster%20from%20fan/monster%20from%20fan.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/monster%20from%20fan/monster%20from%20fan.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Monster From fan</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":5,
+    "name":"Monster lvl 999",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/Monster%20lvl%20999/Monster%20lvl%20999.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/Monster%20lvl%20999/monster%20lvl%20999.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Monster lvl 999</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod </div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":6,
+    "name":"Monster Melon",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/Monster%20Melon/Monster%20Melon.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/Monster%20Melon/monster%20melon.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Monster Melon</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":7,
+    "name":"Monster Melon Mod",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/monster%20melon%20mod/monster%20melon%20mod.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/monster%20melon%20mod/monster%20melon%20mod.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Monster Melon Mod</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+    ,
+  {
+    "id":8,
+    "name":"monster wood",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/monster%20wood/monster%20wood.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/monster%20wood/monster%20wood.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">monster wood</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+    ,
+  {
+    "id":9,
+    "name":"NPC Crystal purple",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/NPC%20Crystal%20purple/NPC%20Crystal%20purple.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/NPC%20Crystal%20purple/NPC%20Crystal%20purple.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">NPC Crystal purple</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+    ,
+  {
+    "id":10,
+    "name":"NPC Night monster",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/NPC%20Night%20monster/NPC%20Night%20monster.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/NPC%20Night%20monster/NPC%20Night%20monster.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">NPC Night monster</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":11,
+    "name":"sewer monster",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/sewer%20monster/sewer%20monster.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/sewer%20monster/sewer%20monster.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">sewer monster</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":12,
+    "name":"The Backstage Monster",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/The%20Backstage%20Monster/The%20Backstage%20Monster.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/The%20Backstage%20Monster/The%20Backstage%20Monster.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">The Backstage Monster</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":13,
+    "name":"Tunnel Monster",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/tunnel%20monster/tunnel%20monster.jpg",
+    "download":"https://aweu.net/MOD%20MELON/YEOROBUN/Monster/tunnel%20monster/tunnel%20monster.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Tunnel Monster</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":14,
+    "name":"Acid Dimension",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Acid%20Dimension/Acid%20Dimension.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Acid%20Dimension/Acid%20Dimension.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Acid Dimension</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":15,
+    "name":"Alien MONSTER",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Alien%20MONSTER/Alien%20MONSTER.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Alien%20MONSTER/Alien%20MONSTER.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Alien MONSTER</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":16,
+    "name":"Bloomberg mod",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Bloomberg%20mod/Bloomberg%20mod.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Bloomberg%20mod/Bloomberg%20mod.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Bloomberg mod</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":17,
+    "name":"Bone Monster",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Bone%20Monster/Bone%20Monster.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Bone%20Monster/Bone%20Monster.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Bone Monster</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":18,
+    "name":"Boring Guy",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Boring%20Guy/Boring%20guy.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Boring%20Guy/Boring%20guy.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Boring Guy</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":19,
+    "name":"Collectible Monster",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Collectible%20Monster/Collectible%20Monster.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Collectible%20Monster/Collectible%20Monster.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Collectible Monster</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":20,
+    "name":"Goblin",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Goblin/Goblin.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Goblin/Goblin.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Goblin</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":21,
+    "name":"Iron Lung",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Iron%20Lung/Iron%20Lung.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Iron%20Lung/Iron%20Lung.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Iron Lung</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":22,
+    "name":"Monster",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster/Monster.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster/Monster.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Monster</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":23,
+    "name":"Monster 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster%202/Monster%202.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster%202/Monster%202.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Monster 2</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":24,
+    "name":"Monster 3",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster%203/Monster%203.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster%203/Monster%203.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Monster 3</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":25,
+    "name":"Monster 4",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster%204/Monster%204.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster%204/Monster%204.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Monster 4</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":26,
+    "name":"Monster 5",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster%205/Monster%205.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster%205/Monster%205.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Monster 5</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":27,
+    "name":"Monster From Backrooms",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster%20From%20Backrooms/Monster%20From%20Backrooms.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster%20From%20Backrooms/Monster%20From%20Backrooms.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Monster From Backrooms</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":28,
+    "name":"Monster From Backrooms 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster%20From%20Backrooms%202/Monster%20From%20Backrooms%202.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster%20From%20Backrooms%202/Monster%20From%20Backrooms%202.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Monster From Backrooms 2</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":29,
+    "name":"Monster Location",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster%20Location/Monster%20Location.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster%20Location/Monster%20Location.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Monster Location</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":30,
+    "name":"Monster Stalker",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster%20Stalker/Monster%20Stalker.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster%20Stalker/Monster%20Stalker.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Monster Stalker</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":31,
+    "name":"Monster That Moves",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster%20That%20Moves/Monster%20That%20Moves.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Monster%20That%20Moves/Monster%20That%20Moves.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Monster That Moves</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":32,
+    "name":"NPC - Night monster",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/NPC%20-%20Night%20monster/NPC%20-%20Night%20monster.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/NPC%20-%20Night%20monster/NPC%20-%20Night%20monster.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">NPC - Night monster</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":33,
+    "name":"NPC Crystal purple monster",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/NPC%20Crystal%20purple%20monster/NPC%20Crystal%20purple%20monster.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/NPC%20Crystal%20purple%20monster/NPC%20Crystal%20purple%20monster.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">NPC Crystal purple monster</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":34,
+    "name":"NPC forest monster",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/NPC%20forest%20monster/NPC%20forest%20monster.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/NPC%20forest%20monster/NPC%20forest%20monster.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">NPC forest monster</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":35,
+    "name":"NPC monster Melonoid",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/NPC%20monster%20Melonoid/NPC%20monster%20Melonoid.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/NPC%20monster%20Melonoid/NPC%20monster%20Melonoid.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">NPC monster Melonoid</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":36,
+    "name":"NPC Yawstrich",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/NPC%20Yawstrich/NPC%20Yawstrich.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/NPC%20Yawstrich/NPC%20Yawstrich.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">NPC Yawstrich</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":37,
+    "name":"Prefabricated Monster",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Prefabricated%20Monster/Prefabricated%20Monster.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Prefabricated%20Monster/Prefabricated%20Monster.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Prefabricated Monster</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":38,
+    "name":"Rush monster",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Rush%20monster/Rush%20monster.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Rush%20monster/Rush%20monster.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Rush monster</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":39,
+    "name":"Sea monster",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Sea%20monster/Sea%20monster.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Sea%20monster/Sea%20monster.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Sea monster</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":40,
+    "name":"Underwater Monster",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Underwater%20Monster/Underwater%20Monster.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Underwater%20Monster/Underwater%20Monster.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Underwater Monster</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  }
+  ,
+  {
+    "id":41,
+    "name":"Underwater Monster 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Underwater%20Monster%202/Underwater%20Monster%202.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Underwater%20Monster%202/Underwater%20Monster%202.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Underwater Monster 2</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  }
+  ,
+  {
+    "id":42,
+    "name":"Underwater Monster 3",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Underwater%20Monster%203/Underwater%20Monster%203.jpg",
+    "download":"https://aweu.net/2023/BENDOIL/Almesha/Monster/Underwater%20Monster%203/Underwater%20Monster%203.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Underwater Monster 3</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  }
+
+  ]
+}
