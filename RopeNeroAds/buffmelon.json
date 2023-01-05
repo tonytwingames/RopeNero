@@ -1,7 +1,7 @@
 {  "Ads": [
     {
        "select_main_ads": "ADMOB",
-      "select_backup_ads":"IRON",
+      "select_backup_ads":"ADMOB",
       "main_ads_banner": "ca-app-pub-2792056559766967/4966231159",
       "main_ads_intertitial":"ca-app-pub-2792056559766967/3653149485",
       "backup_ads_banner":"Rbandez1234",
